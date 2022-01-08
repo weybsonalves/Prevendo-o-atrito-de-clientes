@@ -4,3 +4,5 @@ No negócio de cartões de crédito em bancos de varejo, o atrito de um cliente 
 Nesse sentido, imagine o seguinte caso para esse projeto:
 
 >O gerente do negócios de cartões de crédito de um banco está enfrentando graves problemas de atrito de clientes nos últimos meses. Como isso está impactando os negócios, o gerente lhe encarrega de analisar os dados para entender os clientes que atritam e criar uma solução que permita identificar clientes que cancelarão suas contas em um futuro próximo, para que assim ele possa concentrar seus esforços em prevenir o atrito desses clientes
+
+Fonte do dataset: [Credit Card customers](https://www.kaggle.com/sakshigoyal7/credit-card-customers).
