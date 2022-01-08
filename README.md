@@ -1,4 +1,4 @@
-# Prevendo-o-atrito-de-clientes
+# Prevendo o atrito de clientes
 No negócio de cartões de crédito em bancos de varejo, o atrito de um cliente é definido como a declaração voluntária de cancelamento do serviço por parte do cliente. O atrito de cartão de crédito geralmente tem um impacto negativo nos resultados do negócio de cartões, com perda de vendas e receita junto com a depreciação de ativos. Pode haver muitos fatores que ocasionam no cancelamento da conta, como insatisfação com o serviço ao cliente, proposta de valor do cartão que não atende às expectativas do cliente, melhores ofertas competitivas, etc. Ao analisar os mais significativos desses fatores, é possível para uma empresa compreender a probabilidade de atrito de cada conta. Isto possibilita a construção de estratégias de modo a combater proativamente a perda de clientes.
 
 Nesse sentido, imagine o seguinte caso para esse projeto:
